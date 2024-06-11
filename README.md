@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dot NET framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-you can always drop me an email to - shankhashubhrasarkar@gmail.com
+you can connect me over linkedin - https://www.linkedin.com/in/shankha-shubhra-sarkar-a7bb21173/
 
 
 <!---
